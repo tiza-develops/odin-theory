@@ -21,5 +21,11 @@
 > ```
 > Which will render *This is italicized text*
 6. What relationship does an element have with any nested elements within it?
+> They are the parent
 7. What relationship do two elements have if they are at the same level of nesting?
+> They are siblings
 8. How do you create HTML comments?
+>```html
+> <!-- This is a comment -->
+> <p>This is not a comment</p>
+> ```
