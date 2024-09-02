@@ -1,0 +1,19 @@
+hey chat gpt, i want to make a macro that, over a visual selection, it inserts \```css in a new line above the first line of the selection and inserts \``` in a new line below the last line of the selection
+
+so that:
+text
+yum
+yum
+yum
+text
+
+turns into:
+text
+```css
+yum
+yum
+yum
+```
+text
+
+where yum is the selection
